@@ -42,3 +42,9 @@ a {
 a:hover {
   color: ghostwhite;
 }
+
+#middle :hover{
+  transform: scale(0);
+}
+  
+
